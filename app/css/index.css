@@ -3,3 +3,9 @@ p {
   font-size: 16px;
   color: black;
   border: 2px solid yellow; }
+/* navbar */
+.topN {
+  background-color: brown;
+  border-color: #E7E7E7;
+}
+/* Title */
